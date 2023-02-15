@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garden_tags on Aaron Schneemelcher</title>
-    <link>https://www.example.com/garden_tags/</link>
+    <link>https://aaronschneemelcher.github.io/garden_tags/</link>
     <description>Recent content in Garden_tags on Aaron Schneemelcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aaron Schneemelcher ©</copyright>
-    <lastBuildDate>Wed, 15 Feb 2023 09:43:22 +0100</lastBuildDate><atom:link href="https://www.example.com/garden_tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 09:43:22 +0100</lastBuildDate><atom:link href="https://aaronschneemelcher.github.io/garden_tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dehntraining</title>
-      <link>https://www.example.com/garden_tags/dehntraining/</link>
+      <link>https://aaronschneemelcher.github.io/garden_tags/dehntraining/</link>
       <pubDate>Wed, 15 Feb 2023 09:43:22 +0100</pubDate>
       
-      <guid>https://www.example.com/garden_tags/dehntraining/</guid>
+      <guid>https://aaronschneemelcher.github.io/garden_tags/dehntraining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>training</title>
-      <link>https://www.example.com/garden_tags/training/</link>
+      <link>https://aaronschneemelcher.github.io/garden_tags/training/</link>
       <pubDate>Wed, 15 Feb 2023 09:43:22 +0100</pubDate>
       
-      <guid>https://www.example.com/garden_tags/training/</guid>
+      <guid>https://aaronschneemelcher.github.io/garden_tags/training/</guid>
       <description></description>
     </item>
     

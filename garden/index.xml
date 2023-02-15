@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Aaron Schneemelcher</title>
-    <link>https://www.example.com/garden/</link>
+    <link>https://aaronschneemelcher.github.io/garden/</link>
     <description>Recent content in Blog on Aaron Schneemelcher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Aaron Schneemelcher ©</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/garden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aaronschneemelcher.github.io/garden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dehntraining</title>
-      <link>https://www.example.com/garden/dehntraining/</link>
+      <link>https://aaronschneemelcher.github.io/garden/dehntraining/</link>
       <pubDate>Wed, 15 Feb 2023 09:43:22 +0100</pubDate>
       
-      <guid>https://www.example.com/garden/dehntraining/</guid>
+      <guid>https://aaronschneemelcher.github.io/garden/dehntraining/</guid>
       <description>erreiche dein potential</description>
     </item>
     
     <item>
       <title>Koordinationstraining</title>
-      <link>https://www.example.com/garden/koordinationstraining/</link>
+      <link>https://aaronschneemelcher.github.io/garden/koordinationstraining/</link>
       <pubDate>Wed, 15 Feb 2023 09:43:22 +0100</pubDate>
       
-      <guid>https://www.example.com/garden/koordinationstraining/</guid>
+      <guid>https://aaronschneemelcher.github.io/garden/koordinationstraining/</guid>
       <description>erreiche dein potential</description>
     </item>
     
     <item>
       <title>Schnelligkeitstraining</title>
-      <link>https://www.example.com/garden/schnelligkeitstraining/</link>
+      <link>https://aaronschneemelcher.github.io/garden/schnelligkeitstraining/</link>
       <pubDate>Wed, 15 Feb 2023 09:43:22 +0100</pubDate>
       
-      <guid>https://www.example.com/garden/schnelligkeitstraining/</guid>
+      <guid>https://aaronschneemelcher.github.io/garden/schnelligkeitstraining/</guid>
       <description>erreiche dein potential</description>
     </item>
     
