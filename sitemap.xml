@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/subdir/</loc>
+    <loc>https://aaronschneemelcher.github.io/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/tags/beweglichkeit/</loc>
+    <loc>https://aaronschneemelcher.github.io/tags/beweglichkeit/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/posts/beweglichkeitstraining/</loc>
+    <loc>https://aaronschneemelcher.github.io/posts/beweglichkeitstraining/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/posts/</loc>
+    <loc>https://aaronschneemelcher.github.io/posts/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/series/</loc>
+    <loc>https://aaronschneemelcher.github.io/series/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/tags/</loc>
+    <loc>https://aaronschneemelcher.github.io/tags/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/series/themes-guide/</loc>
+    <loc>https://aaronschneemelcher.github.io/series/themes-guide/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/tags/training/</loc>
+    <loc>https://aaronschneemelcher.github.io/tags/training/</loc>
     <lastmod>2023-02-17T15:38:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/about/</loc>
+    <loc>https://aaronschneemelcher.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/subdir/archive/</loc>
+    <loc>https://aaronschneemelcher.github.io/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/subdir/categories/</loc>
+    <loc>https://aaronschneemelcher.github.io/categories/</loc>
   </url>
 </urlset>
